@@ -134,7 +134,7 @@ class _Login01State extends State<Login01> {
                                   fontWeight: FontWeight.bold,
                                   
                                 ),),),
-                                height: 50,
+                                height: 49,
                                 color: Colors.blue,
                                 shape: RoundedRectangleBorder(
                                     borderRadius: BorderRadius.circular(50)
